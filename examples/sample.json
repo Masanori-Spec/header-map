@@ -1,0 +1,91 @@
+{
+  "schema": "headermap.project.v1",
+  "id": "workshop",
+  "caption": "Workshop attendance · synthetic example",
+  "rowHeaderLabel": "Session",
+  "rowGroupLabel": "Track",
+  "columns": [
+    {
+      "id": "c1",
+      "label": "Registered"
+    },
+    {
+      "id": "c2",
+      "label": "Attended"
+    },
+    {
+      "id": "c3",
+      "label": "Registered"
+    },
+    {
+      "id": "c4",
+      "label": "Attended"
+    }
+  ],
+  "rows": [
+    {
+      "id": "r1",
+      "label": "Introduction",
+      "values": [
+        "24",
+        "21",
+        "18",
+        "17"
+      ]
+    },
+    {
+      "id": "r2",
+      "label": "Hands-on lab",
+      "values": [
+        "16",
+        "15",
+        "20",
+        "18"
+      ]
+    },
+    {
+      "id": "r3",
+      "label": "Discussion",
+      "values": [
+        "12",
+        "11",
+        "14",
+        "12"
+      ]
+    },
+    {
+      "id": "r4",
+      "label": "Project review",
+      "values": [
+        "10",
+        "9",
+        "12",
+        "10"
+      ]
+    }
+  ],
+  "columnGroups": [
+    {
+      "id": "cg1",
+      "label": "Morning",
+      "span": 2
+    },
+    {
+      "id": "cg2",
+      "label": "Afternoon",
+      "span": 2
+    }
+  ],
+  "rowGroups": [
+    {
+      "id": "rg1",
+      "label": "Foundations",
+      "span": 2
+    },
+    {
+      "id": "rg2",
+      "label": "Practice",
+      "span": 2
+    }
+  ]
+}

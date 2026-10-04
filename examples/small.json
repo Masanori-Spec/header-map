@@ -1,0 +1,37 @@
+{
+  "schema": "headermap.project.v1",
+  "id": "small",
+  "caption": "Materials · synthetic example",
+  "rowHeaderLabel": "Material",
+  "rowGroupLabel": "Group",
+  "columns": [
+    {
+      "id": "c1",
+      "label": "Quantity"
+    },
+    {
+      "id": "c2",
+      "label": "Note"
+    }
+  ],
+  "rows": [
+    {
+      "id": "r1",
+      "label": "Paper",
+      "values": [
+        "12",
+        "Recycled"
+      ]
+    },
+    {
+      "id": "r2",
+      "label": "Clips",
+      "values": [
+        "6",
+        "Reusable"
+      ]
+    }
+  ],
+  "columnGroups": [],
+  "rowGroups": []
+}
