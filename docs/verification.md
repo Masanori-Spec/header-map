@@ -21,7 +21,7 @@ The sandboxed Chromium harness has 14 scenarios covering:
 - Adding, moving and deleting structure, cancellation and restoration
 - Actual split-mode associations and coordinate preservation
 - JSON / grouped HTML / split HTML / fragment downloads
-- Print PDF and screenshot output
+- Print PDF and screenshot output, plus 360 unique values and repeated caption context checked across an oversized split PDF
 - Malformed TSV / UTF-8 rejection, legitimate U+FFFD preservation, close/reopen, repeated file import and language switching
 - Maximum 30 × 12 matrix
 - 768 / 390 / 320-pixel screenshots and viewport overflow checks

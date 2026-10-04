@@ -41,6 +41,7 @@ npm run build
 npm run serve
 # Second terminal:
 npm run test:browser
+# Browser suite also requires pdftotext (Poppler) for PDF value/context checks.
 ```
 
 Do not disable Chromium’s sandbox. The browser CI job uses Ubuntu 22.04 with `chromiumSandbox: true`. Its runner compatibility baseline needs maintenance before the announced 2027-04-17 retirement. Model CI covers Node 22 / 24 and UTC / Asia/Tokyo.
@@ -97,7 +98,7 @@ Split HTML partitions the matrix into the Cartesian product of row-group and col
 
 Generated header IDs are stable for unchanged project IDs and structural identities. Composite cell IDs use `rowID:columnID`; `:` is excluded from input IDs, so delimiter-bearing IDs cannot collide. A grouped and split export can coexist because their prefixes differ. Repeated copies of the same export require distinct project ID prefixes. Publishing systems may strip markup; inspect the final output.
 
-All user text is escaped. Complete HTML contains a scope disclaimer and print styling. Fragments intentionally contain only table markup; styling, surrounding explanation, document language, and final-page behavior are the integrator’s responsibility. Direct printing of the editor is marked as a screen view and can include unapplied edits; use exported HTML for distribution.
+All user text is escaped. Complete HTML contains a scope disclaimer and print styling. Split tables prefer staying with their captions; oversized tables may paginate, repeating caption context through their print header. Fragments intentionally contain only table markup; styling, surrounding explanation, document language, and final-page behavior are the integrator’s responsibility. Direct printing of the editor is marked as a screen view and can include unapplied edits; use exported HTML for distribution.
 
 ## Verification
 
