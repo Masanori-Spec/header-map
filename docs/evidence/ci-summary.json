@@ -1,0 +1,147 @@
+{
+  "sourceCommit": "f7d113bebe28e64eb74a0c8a059eb319adcb077e",
+  "runId": 37175506774,
+  "runURL": "https://github.com/Masanori-Spec/header-map/actions/runs/37175506774",
+  "status": "success",
+  "modelMatrix": {
+    "node": [
+      22,
+      24
+    ],
+    "timezone": [
+      "UTC",
+      "Asia/Tokyo"
+    ],
+    "testsPerJob": 99,
+    "jobsPassed": 4
+  },
+  "browser": {
+    "scenariosPassed": 14,
+    "chromiumSandbox": true,
+    "uncaughtErrors": [],
+    "viewportsInspected": [
+      1440,
+      768,
+      390,
+      320
+    ],
+    "japaneseMobile320Inspected": true
+  },
+  "printReview": {
+    "groupedSamplePages": 1,
+    "splitSamplePages": 2,
+    "oversizedPages": 6,
+    "oversizedFirstPage": "Title and scope notice only",
+    "oversizedValues": 360,
+    "allValuesPresentExactlyOnce": true,
+    "contextOnEveryDataPage": true,
+    "clippingOrOverlapFound": false
+  },
+  "artifactFiles": [
+    {
+      "name": "desktop-en.png",
+      "sha256": "cf197fcdcdf4a22f73cfd69e98318d0eedbd14dc102f8c50cdb00f995d9f9e56",
+      "bytes": 223764
+    },
+    {
+      "name": "desktop-ja.png",
+      "sha256": "d2a09415c6e1bf8223705b50c2a4dcb5d479553b56b4400727e4d2cd39c6cc4c",
+      "bytes": 277708
+    },
+    {
+      "name": "download-verification.json",
+      "sha256": "66abe7ad1ff42de1682364773ca6d719de9923ce393435836437dde642894ffc",
+      "bytes": 558
+    },
+    {
+      "name": "maximum-project.json",
+      "sha256": "285c1fdcd20e901f88618fdad5526d209c41ef7798c7edfd3e38eef00166f395",
+      "bytes": 9104
+    },
+    {
+      "name": "mobile-320.png",
+      "sha256": "f9797c03c46fd410c8859b16874e545c06e9f347c2a6c71a75e6fcb2ab4add2e",
+      "bytes": 178443
+    },
+    {
+      "name": "mobile-390.png",
+      "sha256": "705e9e128b08d21970c51dc7ae0a0cd2bb4b8a7f74ddcfb519dbe673ca86c1e6",
+      "bytes": 178986
+    },
+    {
+      "name": "mobile-768.png",
+      "sha256": "0fd54ac72f0a744a9f4d3896c882f2e7c3f503226468bd0d008180b4f031af99",
+      "bytes": 213126
+    },
+    {
+      "name": "mobile-ja-320.png",
+      "sha256": "b363b3bb5d5355a5151ee90d97e8c8b0685e01484a44a3c4be4d9a446ef97a35",
+      "bytes": 198270
+    },
+    {
+      "name": "oversized-print-check.json",
+      "sha256": "bef79f7b1f9c59dc042aadc04e74dceea323f7c8ce7d1f215ea1708ffe0c9482",
+      "bytes": 112
+    },
+    {
+      "name": "oversized-split.html",
+      "sha256": "5e1102f3aed444b8b6afe8ff017b2e6586bd6a56b8bc7d503a7131e93ce2c75b",
+      "bytes": 51954
+    },
+    {
+      "name": "oversized-split.pdf",
+      "sha256": "b4720cd6d75068f5f8f07b46588bfed6e93312091cb8dd3ab035234d8e682cd1",
+      "bytes": 33999
+    },
+    {
+      "name": "oversized-split.txt",
+      "sha256": "0a0b6b26372dda3c707945826421bea1aad4e2033f909aca9ff2795509393fe2",
+      "bytes": 5697
+    },
+    {
+      "name": "print-grouped.png",
+      "sha256": "6c8cc9e683aaefb2d773cb995b066795369f32a4663d6f79fd23a553150ba3fb",
+      "bytes": 42280
+    },
+    {
+      "name": "print-split.png",
+      "sha256": "27bdce3f5f9b64427f2b50048d48932226fc7075bb990c3d538f2b6bfe7e31a0",
+      "bytes": 76504
+    },
+    {
+      "name": "results.json",
+      "sha256": "f6c1d3ad4ee84561b2b16c990615cff39b505949883a67be17d2fa2b94ae0da6",
+      "bytes": 1052
+    },
+    {
+      "name": "sample-grouped.html",
+      "sha256": "6df6e8dffa9e8d34a82da22f4312d4c20a76c9e19ddedd4989a9f83c97e0b697",
+      "bytes": 5073
+    },
+    {
+      "name": "sample-grouped.pdf",
+      "sha256": "b60b6badd2ffd67ea5186f66729c03ffb17a60d87eab3723751a56a8c570b6c8",
+      "bytes": 22464
+    },
+    {
+      "name": "sample-project.json",
+      "sha256": "59ec11a0a5fac13361816cc81feb3e81bab1ce7b6fab4f8246c41c0541e24d04",
+      "bytes": 1361
+    },
+    {
+      "name": "sample-split-fragment.html",
+      "sha256": "43572cefbe86e3c2b0046c34f31d76018c89eea586a6d1cf5f3d06991907420c",
+      "bytes": 3930
+    },
+    {
+      "name": "sample-split.html",
+      "sha256": "1a3eb935cbd5cefd6f1be6802df4c2a748577dc5520c17ee6d0fafeaa3c4496d",
+      "bytes": 5690
+    },
+    {
+      "name": "sample-split.pdf",
+      "sha256": "6fb97493e15d23bd5341ff6ca4feb12fd4d60c3b500fa71c01cf0dfd253d25f8",
+      "bytes": 23977
+    }
+  ]
+}

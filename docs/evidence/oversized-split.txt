@@ -1,0 +1,1051 @@
+Oversized split context
+HeaderMap generates explicit header associations. It does not guarantee screen-reader behavior, WCAG conformance, or legal compliance. Review in your actual
+publishing context and assistive technology.
+
+Oversized split context
+Oversized split
+context
+
+C01
+
+C02
+
+C03
+
+C04
+
+C05
+
+C06
+
+C07
+
+C08
+
+C09
+
+C10
+
+C11
+
+C12
+
+P01C01
+
+P01C02
+
+P01C03
+
+P01C04
+
+P01C05
+
+P01C06
+
+P01C07
+
+P01C08
+
+P01C09
+
+P01C10
+
+P01C11
+
+P01C12
+
+P02C01
+
+P02C02
+
+P02C03
+
+P02C04
+
+P02C05
+
+P02C06
+
+P02C07
+
+P02C08
+
+P02C09
+
+P02C10
+
+P02C11
+
+P02C12
+
+P03C01
+
+P03C02
+
+P03C03
+
+P03C04
+
+P03C05
+
+P03C06
+
+P03C07
+
+P03C08
+
+P03C09
+
+P03C10
+
+P03C11
+
+P03C12
+
+P04C01
+
+P04C02
+
+P04C03
+
+P04C04
+
+P04C05
+
+P04C06
+
+P04C07
+
+P04C08
+
+P04C09
+
+P04C10
+
+P04C11
+
+P04C12
+
+P05C01
+
+P05C02
+
+P05C03
+
+P05C04
+
+P05C05
+
+P05C06
+
+P05C07
+
+P05C08
+
+P05C09
+
+P05C10
+
+P05C11
+
+P05C12
+
+P06C01
+
+P06C02
+
+P06C03
+
+P06C04
+
+P06C05
+
+P06C06
+
+P06C07
+
+P06C08
+
+P06C09
+
+P06C10
+
+P06C11
+
+P06C12
+
+Entry
+Row 01
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 02
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 03
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 04
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 05
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 06
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+
+Oversized split
+context
+
+C01
+
+C02
+
+C03
+
+C04
+
+C05
+
+C06
+
+C07
+
+C08
+
+C09
+
+C10
+
+C11
+
+C12
+
+P07C01
+
+P07C02
+
+P07C03
+
+P07C04
+
+P07C05
+
+P07C06
+
+P07C07
+
+P07C08
+
+P07C09
+
+P07C10
+
+P07C11
+
+P07C12
+
+P08C01
+
+P08C02
+
+P08C03
+
+P08C04
+
+P08C05
+
+P08C06
+
+P08C07
+
+P08C08
+
+P08C09
+
+P08C10
+
+P08C11
+
+P08C12
+
+P09C01
+
+P09C02
+
+P09C03
+
+P09C04
+
+P09C05
+
+P09C06
+
+P09C07
+
+P09C08
+
+P09C09
+
+P09C10
+
+P09C11
+
+P09C12
+
+P10C01
+
+P10C02
+
+P10C03
+
+P10C04
+
+P10C05
+
+P10C06
+
+P10C07
+
+P10C08
+
+P10C09
+
+P10C10
+
+P10C11
+
+P10C12
+
+P11C01
+
+P11C02
+
+P11C03
+
+P11C04
+
+P11C05
+
+P11C06
+
+P11C07
+
+P11C08
+
+P11C09
+
+P11C10
+
+P11C11
+
+P11C12
+
+P12C01
+
+P12C02
+
+P12C03
+
+P12C04
+
+P12C05
+
+P12C06
+
+P12C07
+
+P12C08
+
+P12C09
+
+P12C10
+
+P12C11
+
+P12C12
+
+Entry
+Row 07
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 08
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 09
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 10
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 11
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 12
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+
+Oversized split
+context
+
+C01
+
+C02
+
+C03
+
+C04
+
+C05
+
+C06
+
+C07
+
+C08
+
+C09
+
+C10
+
+C11
+
+C12
+
+P13C01
+
+P13C02
+
+P13C03
+
+P13C04
+
+P13C05
+
+P13C06
+
+P13C07
+
+P13C08
+
+P13C09
+
+P13C10
+
+P13C11
+
+P13C12
+
+P14C01
+
+P14C02
+
+P14C03
+
+P14C04
+
+P14C05
+
+P14C06
+
+P14C07
+
+P14C08
+
+P14C09
+
+P14C10
+
+P14C11
+
+P14C12
+
+P15C01
+
+P15C02
+
+P15C03
+
+P15C04
+
+P15C05
+
+P15C06
+
+P15C07
+
+P15C08
+
+P15C09
+
+P15C10
+
+P15C11
+
+P15C12
+
+P16C01
+
+P16C02
+
+P16C03
+
+P16C04
+
+P16C05
+
+P16C06
+
+P16C07
+
+P16C08
+
+P16C09
+
+P16C10
+
+P16C11
+
+P16C12
+
+P17C01
+
+P17C02
+
+P17C03
+
+P17C04
+
+P17C05
+
+P17C06
+
+P17C07
+
+P17C08
+
+P17C09
+
+P17C10
+
+P17C11
+
+P17C12
+
+P18C01
+
+P18C02
+
+P18C03
+
+P18C04
+
+P18C05
+
+P18C06
+
+P18C07
+
+P18C08
+
+P18C09
+
+P18C10
+
+P18C11
+
+P18C12
+
+Entry
+Row 13
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 14
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 15
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 16
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 17
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 18
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+
+Oversized split
+context
+
+C01
+
+C02
+
+C03
+
+C04
+
+C05
+
+C06
+
+C07
+
+C08
+
+C09
+
+C10
+
+C11
+
+C12
+
+P19C01
+
+P19C02
+
+P19C03
+
+P19C04
+
+P19C05
+
+P19C06
+
+P19C07
+
+P19C08
+
+P19C09
+
+P19C10
+
+P19C11
+
+P19C12
+
+P20C01
+
+P20C02
+
+P20C03
+
+P20C04
+
+P20C05
+
+P20C06
+
+P20C07
+
+P20C08
+
+P20C09
+
+P20C10
+
+P20C11
+
+P20C12
+
+P21C01
+
+P21C02
+
+P21C03
+
+P21C04
+
+P21C05
+
+P21C06
+
+P21C07
+
+P21C08
+
+P21C09
+
+P21C10
+
+P21C11
+
+P21C12
+
+P22C01
+
+P22C02
+
+P22C03
+
+P22C04
+
+P22C05
+
+P22C06
+
+P22C07
+
+P22C08
+
+P22C09
+
+P22C10
+
+P22C11
+
+P22C12
+
+P23C01
+
+P23C02
+
+P23C03
+
+P23C04
+
+P23C05
+
+P23C06
+
+P23C07
+
+P23C08
+
+P23C09
+
+P23C10
+
+P23C11
+
+P23C12
+
+P24C01
+
+P24C02
+
+P24C03
+
+P24C04
+
+P24C05
+
+P24C06
+
+P24C07
+
+P24C08
+
+P24C09
+
+P24C10
+
+P24C11
+
+P24C12
+
+Entry
+Row 19
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 20
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 21
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 22
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 23
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 24
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+
+Oversized split
+context
+
+C01
+
+C02
+
+C03
+
+C04
+
+C05
+
+C06
+
+C07
+
+C08
+
+C09
+
+C10
+
+C11
+
+C12
+
+P25C01
+
+P25C02
+
+P25C03
+
+P25C04
+
+P25C05
+
+P25C06
+
+P25C07
+
+P25C08
+
+P25C09
+
+P25C10
+
+P25C11
+
+P25C12
+
+P26C01
+
+P26C02
+
+P26C03
+
+P26C04
+
+P26C05
+
+P26C06
+
+P26C07
+
+P26C08
+
+P26C09
+
+P26C10
+
+P26C11
+
+P26C12
+
+P27C01
+
+P27C02
+
+P27C03
+
+P27C04
+
+P27C05
+
+P27C06
+
+P27C07
+
+P27C08
+
+P27C09
+
+P27C10
+
+P27C11
+
+P27C12
+
+P28C01
+
+P28C02
+
+P28C03
+
+P28C04
+
+P28C05
+
+P28C06
+
+P28C07
+
+P28C08
+
+P28C09
+
+P28C10
+
+P28C11
+
+P28C12
+
+P29C01
+
+P29C02
+
+P29C03
+
+P29C04
+
+P29C05
+
+P29C06
+
+P29C07
+
+P29C08
+
+P29C09
+
+P29C10
+
+P29C11
+
+P29C12
+
+P30C01
+
+P30C02
+
+P30C03
+
+P30C04
+
+P30C05
+
+P30C06
+
+P30C07
+
+P30C08
+
+P30C09
+
+P30C10
+
+P30C11
+
+P30C12
+
+Entry
+Row 25
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 26
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 27
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 28
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 29
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+Row 30
+detail detail
+detail detail
+detail detail
+detail detail
+detail
+
+

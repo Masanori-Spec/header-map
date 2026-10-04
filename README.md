@@ -6,6 +6,12 @@ HeaderMap is a local, bounded authoring tool for grouped data tables. Define row
 
 This is **not a screen-reader simulation, accessibility audit, or conformance certificate**. It makes no guarantee of screen-reader behavior, WCAG conformance, or legal compliance. Review content and test the final published page with appropriate assistive technology.
 
+## Verified preview
+
+![HeaderMap Japanese desktop interface](docs/evidence/desktop-ja.png)
+
+[Hosted verification](https://github.com/Masanori-Spec/header-map/actions/runs/37175506774) passed for `f7d113bebe28e64eb74a0c8a059eb319adcb077e`: 99 tests in each of four Node/timezone combinations and all 14 sandboxed Chromium scenarios. Actual desktop/mobile screenshots, HTML/JSON exports, and grouped/split print PDFs were inspected. [Evidence and limits](docs/verification.md).
+
 ## 日本語
 
 行・列のグループを定義し、選んだ値に関連付けられる見出しを確認する、小さなHTML表作成ツールです。
@@ -108,6 +114,8 @@ All user text is escaped. Complete HTML contains a scope disclaimer and print st
 - Additional tests cover structure operations, state transitions, strict input, hostile text, and deterministic exports
 - Sandboxed Chromium CI scenarios cover keyboard, mobile, dirty-state locking, undo/redo, import interruptions, actual downloads and print PDFs
 
-Browser scenarios are authored but not executed in this development environment. Do not treat them as passed until the hosted run succeeds for the exact commit. No screen-reader user study has been performed.
+**99 / 99 Node tests passed** on each Node 22 / 24 × UTC / Asia/Tokyo combination, and **14 / 14 sandboxed Chromium scenarios passed** in hosted CI. Actual downloads and desktop/mobile layouts were inspected. The oversized print fixture preserves all 360 values and repeated heading context across pages. No screen-reader user study has been performed; these checks do not establish conformance.
 
 [Research and comparison](docs/comparison.md) · [Engineering explanation](docs/engineering.md) · [Verification status](docs/verification.md) · [Independent review](docs/independent-review.md)
+
+No project license has been selected or added. Publication does not by itself grant a reuse license.

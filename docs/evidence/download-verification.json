@@ -1,0 +1,30 @@
+{
+  "downloadedJSONMatchesSyntheticSource": true,
+  "maximumMatrix": [
+    30,
+    12
+  ],
+  "maximumValuesPreserved": 360,
+  "HTMLAndFragmentChecks": [
+    {
+      "name": "sample-grouped.html",
+      "tables": 1,
+      "dataCells": 16,
+      "errors": []
+    },
+    {
+      "name": "sample-split.html",
+      "tables": 4,
+      "dataCells": 16,
+      "errors": []
+    },
+    {
+      "name": "sample-split-fragment.html",
+      "tables": 4,
+      "dataCells": 16,
+      "errors": []
+    }
+  ],
+  "noActiveElementsOrExternalAssets": true,
+  "passed": true
+}

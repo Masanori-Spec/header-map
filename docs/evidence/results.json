@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "chromiumSandbox": true,
+  "checks": [
+    "Japanese grouped table and explicit header coverage",
+    "keyboard selection and English interface",
+    "cell edits are staged, escaped, undoable and redoable",
+    "invalid group edits never replace valid preview; undo clears draft",
+    "column structure add/undo/redo and row move retain identities",
+    "delete cancellation and confirmation followed by undo",
+    "split view references actual headers and preserves all source coordinates",
+    "four downloads preserve JSON and grouped/split markup; print PDFs render",
+    "TSV malformed input, close/reopen and successful replacement",
+    "same JSON file is reusable; language switching keeps import draft",
+    "malformed UTF-8 is rejected while legitimate replacement-character text is preserved",
+    "maximum matrix covers 360 cells without lost headers",
+    "mobile cell editor and responsive viewport bounds",
+    "application performs no external requests and has no uncaught errors"
+  ],
+  "uncaughtErrors": []
+}
